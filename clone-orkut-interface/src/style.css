@@ -1,0 +1,116 @@
+body {
+    margin: 10px;
+    background-color: rgb(203, 226, 231);
+}
+
+.main {
+    padding: 5px;
+}
+
+.home {
+    background-color: white;
+    width: 957px;
+    height: 500px;
+    padding: 10px;
+    float: left;
+    margin-bottom: 20px;
+}
+
+.img {
+    text-align: center;
+    margin-top: 110px;
+}
+
+.home-text {
+    font-family: 'Oswald', sans-serif;
+    font-size: 12pt;
+    text-align: center;
+    margin: 2px;
+    letter-spacing: 0.5px;
+    
+}
+
+b {
+    font-family: 'Oswald', sans-serif;
+    font-size: 12pt;
+    color: rgb(189, 81, 189);
+}
+
+.login {
+    background-color: rgb(232, 238, 248);
+    border-width: 5px;
+    border-style: solid;
+    border-color: #fff;
+    float: right;
+    width: 330px;
+    height: 400px;
+}
+
+.cadastro {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    background-color: rgb(232, 238, 248);
+    border-width: 5px;
+    border-style: solid;
+    border-color: #fff;
+    float: right;
+    width: 330px;
+    height: 90px;
+    text-align: center;
+
+}
+
+
+.rodape {
+    text-align: center;
+    height: 40px;
+    background-color: rgb(188, 202, 207);
+    float: inline-end;
+    width: 1337px;
+    margin-right: 5px;
+    margin-left: 10px;
+        
+}
+
+p#title {
+    text-align: center;
+    
+}
+
+p#conta {
+    text-align: center;
+    font-size: 15pt;
+    margin-top: -10px;
+
+}
+
+#form {
+    margin-left: 20px;
+}
+
+
+input#pass{
+    margin-left: 5px;
+    margin-top: 10px;
+}
+
+#check {
+    text-align: inherit;
+    margin-top: 10px;
+    margin-left: 30px;
+    
+}
+
+#ressalva {
+    margin-left: 30px;
+    font-size: 10pt;
+    color: rgb(155, 165, 170);
+}
+
+#btn { 
+    margin-left: 30px;
+}
+
+#link {
+    margin-left: 30px;
+}
